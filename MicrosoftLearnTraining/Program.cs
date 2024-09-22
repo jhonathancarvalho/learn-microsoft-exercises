@@ -11,6 +11,13 @@
             // Instanciando e executando o segundo exercício
             Segundo exercicio2 = new Segundo();
             exercicio2.Executar();
+
+            // Instanciando e executando o segundo exercício
+            Terceiro exercicio3 = new Terceiro();
+            exercicio3.Executar();
+
+            Quarto exercicio4 = new Quarto();
+            exercicio4.Executar();
         }
     }
 }
