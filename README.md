@@ -4,7 +4,7 @@ Este repositório contém todos os exercícios e desafios resolvidos durante meu
 
 ## 📚 Sumário de Módulos
 
-1. [🌟 Introdução ao C#, Parte 1 - Escreva seu primeiro código]([01-introducao-csharp-parte1/](https://github.com/jhonathancarvalho/microsoft-learn/tree/master/MicrosoftLearnTraining/1%20-%20Desafios)
+1. [🌟 Introdução ao C#, Parte 1 - Escreva seu primeiro código](https://github.com/jhonathancarvalho/microsoft-learn/tree/master/MicrosoftLearnTraining/1%20-%20Desafios)
 2. [🚀 Introdução ao C#, Parte 2 - Criar e executar aplicativos de console C# simples](02-introducao-csharp-parte2/)
 3. [⚡ Introdução ao C#, Parte 3 - Adicionar lógica a aplicativos de console C#](03-introducao-csharp-parte3/)
 4. [🔧 Introdução ao C#, Parte 4 - Trabalhar com dados variáveis](04-introducao-csharp-parte4/)
