@@ -1,6 +1,6 @@
 ﻿namespace MicrosoftLearnTraining
 {
-    public class Segundo
+    public class Exercise2
     {
         public void Executar()
         {

@@ -5,19 +5,24 @@
         static void Main(string[] args)
         {
             // Instanciando e executando o primeiro exercício
-            Primeiro exercicio1 = new Primeiro();
-            exercicio1.Executar();
+            var exercise1 = new Exercise1();
+            exercise1.Executar();
 
             // Instanciando e executando o segundo exercício
-            Segundo exercicio2 = new Segundo();
-            exercicio2.Executar();
+            var exercise2 = new Exercise2();
+            exercise2.Executar();
 
-            // Instanciando e executando o segundo exercício
-            Terceiro exercicio3 = new Terceiro();
-            exercicio3.Executar();
+            // Instanciando e executando o terceiro exercício
+            var exercise3 = new Exercise3();
+            exercise3.Executar();
 
-            Quarto exercicio4 = new Quarto();
-            exercicio4.Executar();
+            // Instanciando e executando o quarto exercício
+            var exercise4 = new Exercise4();
+            exercise4.Executar();
+
+            // Instanciando e executando o quarto exercício
+            var exercise5 = new Exercise5();
+            exercise5.Executar();
         }
     }
 }
