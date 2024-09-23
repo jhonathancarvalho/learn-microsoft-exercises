@@ -4,6 +4,8 @@
     {
         public void Executar()
         {
+            Console.WriteLine("Exercise 3:");
+            
             string projectName = "ACME";
 
             string englishLocation = $@"c:\Exercise\{projectName}\data.txt";
@@ -15,6 +17,8 @@
             string portugueseLocation = $@"c:\Exercise\{projectName}\pt-BR\data.txt";
 
             Console.WriteLine($"{portugueseMessage}:\n\t\t{portugueseLocation}\n");
+
+            Console.WriteLine();
         }
     }
 }

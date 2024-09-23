@@ -4,6 +4,8 @@
     {
         public void Executar()
         {
+            Console.WriteLine("Exercise 4:");
+           
             int fahrenheit = 94;
 
             double celsius = (fahrenheit - 32) * 5.0 / 9.0;
