@@ -1,10 +1,10 @@
-﻿namespace MicrosoftLearnTraining
+﻿namespace MicrosoftLearnTraining.Module_1
 {
-    public class Exercise3
+    public class Module1_Exercise3
     {
-        public void Executar()
+        public void Execute()
         {
-            Console.WriteLine("Exercise 3:");
+            Console.WriteLine("Module 1 - Exercise 3:");
             
             string projectName = "ACME";
 

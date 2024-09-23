@@ -1,10 +1,10 @@
-﻿namespace MicrosoftLearnTraining
+﻿namespace MicrosoftLearnTraining.Module_1
 { 
-    public class Exercise5
+    public class Module1_Exercise5
     {
-        public void Executar()
+        public void Execute()
         {
-            Console.WriteLine("Exercise 5:");
+            Console.WriteLine("Module 1 - Exercise 5:");
 
             int totalTrabalhos = 5;
 

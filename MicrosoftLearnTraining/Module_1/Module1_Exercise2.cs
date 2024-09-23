@@ -1,10 +1,10 @@
-﻿namespace MicrosoftLearnTraining
+﻿namespace MicrosoftLearnTraining.Module_1
 {
-    public class Exercise2
+    public class Module1_Exercise2
     {
-        public void Executar()
+        public void Execute()
         {
-            Console.WriteLine("Exercise 2:");
+            Console.WriteLine("Module 1 - Exercise 2:");
 
             int numero = 10;  
             string mensagem = "O valor da variável é"; 

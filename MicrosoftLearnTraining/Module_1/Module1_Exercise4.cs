@@ -1,10 +1,10 @@
-﻿namespace MicrosoftLearnTraining
+﻿namespace MicrosoftLearnTraining.Module_1
 { 
-    public class Exercise4
+    public class Module1_Exercise4
     {
-        public void Executar()
+        public void Execute()
         {
-            Console.WriteLine("Exercise 4:");
+            Console.WriteLine("Module 1 - Exercise 4:");
            
             int fahrenheit = 94;
 

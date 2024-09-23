@@ -8,11 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="2 - Module\" />
-    <Folder Include="3 - Module\" />
-    <Folder Include="4 - Module\" />
-    <Folder Include="5 - Module\" />
-    <Folder Include="6 - Module\" />
+    <Folder Include="Module_3\" />
+    <Folder Include="Module_4\" />
+    <Folder Include="Module_5\" />
+    <Folder Include="Module_6\" />
   </ItemGroup>
 
 </Project>

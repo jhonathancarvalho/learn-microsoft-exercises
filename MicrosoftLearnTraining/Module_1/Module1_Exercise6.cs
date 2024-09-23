@@ -1,10 +1,10 @@
-﻿namespace MicrosoftLearnTraining
+﻿namespace MicrosoftLearnTraining.Module_1
 {
-    public class Exercise6
+    public class Module1_Exercise6
     {
-        public void Executar()
+        public void Execute()
         {
-            Console.WriteLine("Exercise 6:");
+            Console.WriteLine("Module 1 - Exercise 6:");
 
             string nomeDoAluno = "Carlos Silva";
             string nomeCurso1 = "Física 101";
