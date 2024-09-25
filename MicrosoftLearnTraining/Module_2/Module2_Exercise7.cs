@@ -31,6 +31,7 @@
                 decimal extraCreditPoints = (0.1m * totalExtraCredit) / extraCredit.GetLength(1);
 
                 Console.WriteLine($"{students[i],-15} {examScores[i],-15:F1} {finalScore,-15:F2} {overallGrade,-7} {totalExtraCredit,-9} ({extraCreditPoints:F2} pts)");
+                Console.WriteLine();
             }
         }
 
@@ -47,6 +48,7 @@
             else
                 return "F";
         }
+       
     }
 }
 

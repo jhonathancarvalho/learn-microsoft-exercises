@@ -56,42 +56,42 @@ Este repositório contém todos os exercícios e desafios resolvidos durante meu
 - **Objetivo:** Manipular e trabalhar com dados variáveis em programas C#.
 - **Atividades Concluídas:**
   
-    - ✅ Exercício 1: Trabalhar com dados variáveis
-    - ✅ Exercício 2: Escolher o tipo de dados correto em seu código C# 
-    - ✅ Exercício 3: Converter tipos de dados usando técnicas de conversão cast em C# 
-    - ✅ Exercício 4: Executar operações em matrizes usando métodos auxiliares em C# 
-    - ✅ Exercício 5: Formatar dados alfanuméricos para apresentação em C# 
-    - ✅ Exercício 6: Modificar o conteúdo de cadeias de caracteres usando métodos internos de tipo de dados em C# 
-    - ✅ Projeto Guiado: Trabalhar com os dados variáveis em C# 
-    - ✅ Projeto de Desafio: Trabalhar com os dados variáveis em C# 
+    - ⬜  Exercício 1: Trabalhar com dados variáveis
+    - ⬜  Exercício 2: Escolher o tipo de dados correto em seu código C# 
+    - ⬜  Exercício 3: Converter tipos de dados usando técnicas de conversão cast em C# 
+    - ⬜  Exercício 4: Executar operações em matrizes usando métodos auxiliares em C# 
+    - ⬜  Exercício 5: Formatar dados alfanuméricos para apresentação em C# 
+    - ⬜  Exercício 6: Modificar o conteúdo de cadeias de caracteres usando métodos internos de tipo de dados em C# 
+    - ⬜  Projeto Guiado: Trabalhar com os dados variáveis em C# 
+    - ⬜  Projeto de Desafio: Trabalhar com os dados variáveis em C# 
 
 
 ### 🔍 5. Introdução ao C#, Parte 5 - Criar métodos em aplicativos de console C#
 - **Objetivo:** Criar e utilizar métodos para modularizar o código em C#.
 - **Atividades Concluídas:**
   
-    - ✅ Exercício 1: Criar métodos em aplicativos de console
-    - ✅ Exercício 2: Escrever seu primeiro método C#
-    - ✅ Exercício 3: Criar métodos C# com parâmetros 
-    - ✅ Exercício 4: Criar métodos C# que retornem valores 
-    - ✅ Projeto Guiado: Planejar uma visita ao zoológico 
-    - ✅ Desafio de Projeto: Criar um minijogo
+    - ⬜  Exercício 1: Criar métodos em aplicativos de console
+    - ⬜  Exercício 2: Escrever seu primeiro método C#
+    - ⬜   Exercício 3: Criar métodos C# com parâmetros 
+    - ⬜  Exercício 4: Criar métodos C# que retornem valores 
+    - ⬜  Projeto Guiado: Planejar uma visita ao zoológico 
+    - ⬜  Desafio de Projeto: Criar um minijogo
 
 
 ### 🐞 6. Introdução ao C#, Parte 6 - Depurar aplicativos de console C#
 - **Objetivo:** Aprender a depurar e corrigir erros em programas C#.
 - **Atividades Concluídas:**
   
-    - ✅ Exercício 1: Depurar aplicativos de console
-    - ✅ Analisar os princípios de depuração de código e de tratamento de exceções 
-    - ✅ Implementar as ferramentas de depuração do Visual Studio Code para C# 
-    - ✅ Implementar o tratamento de exceções em aplicativos de console C# 
-    - ✅ Criar e gerar exceções em aplicativos de console C# 
-    - ✅ Projeto Guiado: Depurar e tratar exceções em um aplicativo de console C# usando o Visual Studio Code 
-    - ✅ Projeto de Desafio: Depurar um aplicativo de console C# usando o Visual Studio Code
+    - ⬜  Exercício 1: Depurar aplicativos de console
+    - ⬜  Analisar os princípios de depuração de código e de tratamento de exceções 
+    - ⬜  Implementar as ferramentas de depuração do Visual Studio Code para C# 
+    - ⬜  Implementar o tratamento de exceções em aplicativos de console C# 
+    - ⬜  Criar e gerar exceções em aplicativos de console C# 
+    - ⬜  Projeto Guiado: Depurar e tratar exceções em um aplicativo de console C# usando o Visual Studio Code 
+    - ⬜  Projeto de Desafio: Depurar um aplicativo de console C# usando o Visual Studio Code
 
 ## 💡 Tecnologias Utilizadas
-- **Linguagens:** C#, .NET, Visual Studio Code.
+- **Linguagens:** C#, .NET, Visual Studio 2022.
 - **Ferramentas:** GitHub, Microsoft Learn.
 
 ## 📷 Screenshots

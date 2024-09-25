@@ -1,5 +1,6 @@
 ﻿using MicrosoftLearnTraining.Module_1;
 using MicrosoftLearnTraining.Module_2;
+using MicrosoftLearnTraining.Module_3;
 
 namespace MicrosoftLearnTraining
 {
@@ -59,6 +60,9 @@ namespace MicrosoftLearnTraining
             var exercise7_module2 = new Module2_Exercise7();
             exercise7_module2.Execute();
 
+            // Instanciando e executando o primeiro exercício do módulo 3
+            var exercise1_module3 = new Module3_Exercise1();
+            exercise1_module3.VerificarPermissoes();
         }
     }
 }
