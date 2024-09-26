@@ -1,12 +1,4 @@
-1
-2
-3
-4
-5
-6
-7
-8
-9
+01
 ## 💻 Microsoft Learn Exercises
 
 Este repositório contém todos os exercícios e desafios resolvidos durante meu treinamento na plataforma Microsoft Learn.
