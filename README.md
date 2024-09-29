@@ -1,4 +1,4 @@
-65432
+765432
 1
 ## 💻 Microsoft Learn Exercises
 
